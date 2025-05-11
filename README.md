@@ -22,4 +22,4 @@ El objetivo es ofrecer una clase de grafo reutilizable y fácil de entender para
 *   **Representación en Cadena (`toString`)**:
     *   Proporciona una visualización legible de la lista de adyacencia.
     *   Intenta ordenar los vértices y sus adyacentes (si el tipo `V` es `Comparable`) para una salida determinista.
-    * 
+      ![image](https://github.com/user-attachments/assets/999abcf8-bc28-4fe4-9eab-d41434347143)
